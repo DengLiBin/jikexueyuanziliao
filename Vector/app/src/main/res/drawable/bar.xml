@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="24dp"
+    android:viewportWidth="160"
+    android:viewportHeight="24">
+	<!--相当于宽分为160份，高分为24份，再在该基础上绘图-->
+
+    <path
+        android:name="bar"
+        android:pathData="M60,22 L149,23"
+        android:strokeWidth="2"
+        android:strokeColor="#ffffff"
+        android:strokeAlpha="0.8"
+        android:strokeLineCap="round"
+        />
+</vector>
